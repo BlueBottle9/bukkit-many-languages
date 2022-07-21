@@ -10,6 +10,20 @@ To use this (食用方法):
   下载jar包并作为依赖。（你可能需要将它一起打包到你的jar里）
   
   
-  Use it with maven: To be continued...
+  Use it with maven (使用Maven):
   
-  使用Maven: 暂待开发...
+  ```
+	 <repository>
+      <id>bukkit-many-languages</id>
+      <url>https://github.com/BlueBottle9/bukkit-many-languages/tree/main/repo</url>
+   </repository>
+  ```
+  
+  ```
+  <dependency>
+		<groupId>io.github.bluebottle9</groupId>
+		<artifactId>many-languages</artifactId>
+		<version>0.0.3</version>
+	</dependency>
+  ```
+ 
