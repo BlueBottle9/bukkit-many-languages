@@ -3,7 +3,7 @@ A simple bukkit util for using language String with bukkit.
 
 - 一个简单的Bukkit语言开发包。
 
-[JavaDoc] (https://bluebottle9.github.io/bukkit-many-languages/bluescreen9/minecraft/bukkit/lang/package-summary.html)
+[JavaDoc](https://bluebottle9.github.io/bukkit-many-languages/bluescreen9/minecraft/bukkit/lang/package-summary.html)
 
 To use this (食用方法):
   
